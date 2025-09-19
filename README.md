@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @priyanshu-cyborg
+- 👋 Hi, I’m PRIYANSHU
 - 👀 I’m interested in Data Science | Data Analysis | Web Development | Ethical Hacking
-- 🌱 I’m currently learning Deep Learning | Big Data Analytics | Java Script | Advanced Python Frameworks | Flask | 
+- 🌱 I’m currently learning Deep Learning | Big Data Analytics | Advanced Python Frameworks | Flask | Java Script 
 - 💞️ I’m looking to collaborate on delivering efficent and accurate machine learning models...
 - 📫 Here is my linekein profile : https://www.linkedin.com/in/priyanshu-sharma-70a835320/
 - 😄 Pronouns: ...
