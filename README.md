@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Priyanshu Sharma</h1>
+ <h1 align="center">Hi 👋, I'm Priyanshu</h1>
 <h3 align="center">Aspiring Data Scientist | Machine Learning Engineer | Python & Flask Developer</h3>
 
 <p align="center">
