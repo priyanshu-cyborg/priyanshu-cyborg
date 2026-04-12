@@ -47,7 +47,7 @@
 
 ---
 
-## 🔥 Featured Projects (Recruiter Favorites)
+## 🔥 Featured Projects
 
 ### 🌾 Crop Recommendation System
 📌 *Smart Farming | ML + Flask*
