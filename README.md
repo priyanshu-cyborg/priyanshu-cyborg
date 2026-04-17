@@ -118,7 +118,6 @@
 💼 Open to internships & full-time roles  
 📧 Email: **priyanshu2807.nbj@gmail.com**  
 🔗 LinkedIn: https://www.linkedin.com/in/priyanshu-sharma-70a835320/
-https://priyanshu-cyborg.github.io/
 Portfolio : https://priyanshu-cyborg.github.io/
 
 ---
