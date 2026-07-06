@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist | Machine Learning Engineer | Python & Flask Developer</h3>
 
 <p align="center">
-🚀 MCA Student | 📊 Data Analytics & ML Enthusiast | 🌱 Problem Solver
+🚀 MCA Graduate | 📊 Data Analytics & ML Enthusiast | 🌱 Problem Solver
 </p>
 
 <p align="center">
